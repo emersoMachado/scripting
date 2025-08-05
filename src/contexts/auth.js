@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // dependencies
 import { createContext, useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
@@ -7,14 +6,6 @@ import React from "react";
 import { jwtDecode } from "jwt-decode";
 
 import client from '../axios.config'
-=======
-import axios from "axios";
-import React from "react";
-import { jwtDecode } from "jwt-decode";
-import { createContext, useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
-import client from '../axios.config'
->>>>>>> 4bd3f83ad926b0dbc195ab09bf43e40ac47a64d5
 
 
 
